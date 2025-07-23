@@ -31,7 +31,7 @@ Estudiante de programación en la UTN FRGP. Apasionado por la tecnología, el de
 
 ![Guido's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guido-scotti&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guido-scotti&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guido-scotti&theme=tokyonight)
+
 
 ---
 
