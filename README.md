@@ -1,6 +1,18 @@
 # 👋 ¡Hola! Soy Guido Scotti
 
-Estudiante de programación en la UTN FRGP. Apasionado por la tecnología, el desarrollo de software y el diseño de UX/UI. Me gusta trabajar en equipo, aprender cosas nuevas y superarme constantemente.
+👨‍💻 Sobre mí
+
+🎓 Estudiante de Programación en la UTN FRGP.
+
+💡 Apasionado por la tecnología, el desarrollo de software y el diseño UX/UI.
+
+🤝 Disfruto trabajar en equipo, colaborar en proyectos y aprender de otras personas.
+
+📚 Me motiva aprender cosas nuevas y superarme constantemente.
+
+🏋️‍♂️ Me gusta entrenar en el gimnasio, jugar al rugby y mantenerme activo.
+
+🎵 Fan de la música, el cine y el diseño de interiores.
 
 ---
 
